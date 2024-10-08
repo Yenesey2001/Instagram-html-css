@@ -1,0 +1,129 @@
+body{
+    background-color: rgb(199, 192, 192);    
+}
+.header {
+    text-align: center;
+    height: 50px;
+}
+
+.primera{
+    display: flex;
+    background-color: rgb(38, 49, 49);
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 10px;
+    padding-bottom: 15px;
+}
+
+.foto1 {
+    position: absolute;
+    margin: 50px 0;
+    width: 500px;
+    height: 500px;
+    z-index: 2;
+}
+
+.tituloFoto1{
+    position: absolute;
+    margin-left: 15px;
+    margin-bottom: 13px;
+    color: white;
+}
+
+.numFoto1{
+    position: absolute;
+    margin-left: 450px;
+    margin-bottom: 13px;
+    color: white;
+}
+
+.comment {
+    position: absolute;
+    margin-left: 13px;
+    margin-top: 550px;
+    color: white;
+}
+
+
+.segunda{
+    display: flex;
+    background-color: rgb(38, 49, 49);
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 10px;
+    padding-bottom: 15px;
+}
+
+.foto2 {
+    position: absolute;
+    margin: 50px 0;
+    width: 500px;
+    height: 500px;
+    z-index: 2;
+}
+
+.tituloFoto2{
+    position: absolute;
+    margin-left: 15px;
+    margin-bottom: 13px;
+    color: white;
+}
+
+.numFoto2{
+    position: absolute;
+    margin-left: 450px;
+    margin-bottom: 13px;
+    color: white;
+}
+
+.comment2 {
+    position: absolute;
+    margin-left: 13px;
+    margin-top: 550px;
+    color: white;
+}
+
+
+.tercera{
+    display: flex;
+    background-color: rgb(38, 49, 49);
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 10px;
+    padding-bottom: 15px;
+}
+
+.foto3 {
+    position: absolute;
+    margin: 50px 0;
+    width: 500px;
+    height: 500px;
+    z-index: 2;
+}
+
+.tituloFoto3{
+    position: absolute;
+    margin-left: 15px;
+    margin-bottom: 13px;
+    color: white;
+}
+
+.numFoto3{
+    position: absolute;
+    margin-left: 450px;
+    margin-bottom: 13px;
+    color: white;
+}
+
+.comment3 {
+    position: absolute;
+    margin-left: 13px;
+    margin-top: 550px;
+    color: white;
+}
